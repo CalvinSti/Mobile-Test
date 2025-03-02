@@ -1,7 +1,7 @@
 {
-    "name": "GSTKMTLG",
-    "short_name": "TLGNAK",
-    "start_url": "/index.html",
+    "name": "Mobile Test App",
+    "short_name": "MobileTest",
+    "start_url": "/Mobile-Test/Mobile%20test.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
